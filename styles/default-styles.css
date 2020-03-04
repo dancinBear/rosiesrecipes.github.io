@@ -1,0 +1,21 @@
+body {
+    background: #9bbfad;
+}
+h1 {
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+section {
+    background: #ffffff;
+    margin: 5% 10% 5% 10%;
+    padding: 5px;
+    border-style: solid;
+    border-color: #270133;
+}
+nav {
+    text-align: center;
+}
+#contents, #searchResults {
+    text-align: center;
+}
